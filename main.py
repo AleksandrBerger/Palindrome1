@@ -1,3 +1,4 @@
+#used PyCharm
 def is_palindrome(phrase):
     phrase = phrase.casefold()
     list_palindrome = list(phrase.strip(""))
